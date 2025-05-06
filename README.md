@@ -1,24 +1,29 @@
 # proyecto-demo
 
 ## Project setup
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compila y recarga en caliente para desarrollo
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compila y minifica para producción
+
 ```
 npm run build
 ```
 
 ### Lints and fixes files
+
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Personalizar la configuración
+
+Véase [Referencia de configuración](https://cli.vuejs.org/config/).
